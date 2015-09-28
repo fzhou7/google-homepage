@@ -1,0 +1,59 @@
+a {
+	text-decoration: none;
+	color:#666666;
+	font-family: Arial;
+	font-size: 13px;
+	padding:0px 10px 0px 10px;
+}
+
+.txtlink {
+}
+
+a:hover {
+	text-decoration: underline;
+	color:#000;
+}
+
+#header {
+	float:right;
+	padding: 
+}
+
+#apps {
+	width:20px; height:20px;
+	padding-top:8px;
+}
+
+#search {
+	margin: auto;
+	padding-top:200px;
+	width:30%;
+}
+
+#logo {
+	width: 360px; height: 120px;
+}
+
+#searchbar {
+	width: 500px; height:26px;
+	margin-left:-70px;
+}
+
+.search_button {
+	display:inline-block;
+	border:1px;
+	border-radius:3px;
+	background-color:#E6E6E6;
+	border-color:#E6E6E6;
+	height:26px;
+	text-align: center;
+	font-family:Arial;
+	font-size:13px;
+	padding:10px 12px 3px 12px;
+	margin:30px 14px 0px 0px;
+	font-weight: bold;
+}
+
+div div:first-child {
+	margin:30px 14px 0px 0px;
+}
